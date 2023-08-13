@@ -1,0 +1,6 @@
+git-lfs
+re
+pandas
+jupyter
+textwrap
+matplotlib
